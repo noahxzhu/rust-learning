@@ -4,7 +4,7 @@ type File = String;
 
 fn open(f: &mut File) -> bool {
     true
-}           
+}
 
 fn close(f: &mut File) -> bool {
     true
